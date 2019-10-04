@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">maps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="description">This app will find universities in your city for you!</string>
+    <string name="city">City</string>
+    <string name="search_button_text">Search</string>
+</resources>
